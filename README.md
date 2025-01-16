@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Late-30s, no developer, using GitHub for conveniant SSG hosting.
+Late-30s, no developer, used GitHub for conveniant SSG hosting. Won't do anymore, not interested in CoPilot.
